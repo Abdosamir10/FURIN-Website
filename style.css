@@ -1,0 +1,11 @@
+
+      .nav-link {
+        @apply text-gray-700 hover:text-[#F9BF29] font-semibold transition-colors duration-200 px-3 py-1 rounded;
+      }
+      header.bg-white .nav-link {
+        color: #222;
+      }
+      header.text-white .nav-link {
+        color: #eee;
+      }
+   
